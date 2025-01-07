@@ -131,13 +131,6 @@ Strategies include:
 
 ---
 
-# Future Enhancements
-- Add support for additional data formats (e.g., Excel, SQL).
-- Enhance visualization with interactive dashboards.
-- Implement command-line arguments for automation.
-
----
-
 # License
 This project is licensed under the MIT License. See `LICENSE` for more details.
 
