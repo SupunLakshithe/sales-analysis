@@ -1,0 +1,25 @@
+# PyCharm specific files
+.idea/
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environment files
+*.env
+*.venv
+env/
+venv/
+
+# Byte-compiled or compiled code
+*.class
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
