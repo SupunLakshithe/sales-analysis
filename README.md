@@ -63,7 +63,6 @@ Ensure the following files are in the project directory:
 python main.py
 ```
 
-
 # Running the Application
 Upon starting the application, follow the on-screen prompts:
 
@@ -86,12 +85,18 @@ Upon starting the application, follow the on-screen prompts:
 3. Choose an output option (e.g., `4` for HTML Web Report).
 4. Follow the instructions to view the generated output.
 
+![image](https://github.com/user-attachments/assets/c899d681-bd39-417f-b668-97c565fbf058)
+
 ---
 
 # Example Output
 
 - **Text Report**: Displays detailed statistics in the terminal.
+![image](https://github.com/user-attachments/assets/83ac7986-14f8-417c-8590-7dfb688a5b2f)
+
 - **CSV Report**: Saves the analysis results to `report.csv`.
+![image](https://github.com/user-attachments/assets/627a51df-cb79-4153-9838-1458c5512323)
+
 - **HTML Report**: Generates an HTML file (`report.html`) and opens it in your default web browser.
 - **Raw Data Report**: Prints the raw processed data to the console.
 
