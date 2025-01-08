@@ -47,7 +47,7 @@ pip install pandas matplotlib
 #### Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/sales-analysis.git
+git clone https://github.com/SupunLakshithe/sales-analysis.git
 cd sales-analysis
 ```
 ## Verify Files:
