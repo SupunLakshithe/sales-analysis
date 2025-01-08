@@ -139,5 +139,5 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 # Contact
 For questions or suggestions, feel free to reach out:
 
-- GitHub: yourusername
-- Email: your.email@example.com
+- GitHub: SupunLakshithe
+- Email: slsomarathna47@gmail.com
